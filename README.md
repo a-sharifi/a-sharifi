@@ -2,18 +2,15 @@
 
 <p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRnc3g5OXF6YXJ6MjNnNDk0Zzk1bWtyZ2ZrZjViOHEwdmM4ajVieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="400"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/a-sharifi95/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/a-sharifi95/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:am.sharifi@aol.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=a-sharifi&style=flat-square&color=blue" alt="">
 </p>
-<p align="center">
-<a href="mailto:am.sharifi@aol.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=a-sharifi&style=flat-square&color=blue" alt=""></p>
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=a-sharifi" alt="GitHub Streak" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-sharifi&layout=compact&theme=vision-friendly-dark)" alt="GitHub Streak" /></a>
-</p>
+
 
 👋 Hello! I’m a highly specialized software engineer with over 5️⃣ years of experience in the tech industry. I have a
 solid background in back-end development, artificial intelligence (AI) 🧠, natural language processing (NLP) 🗣️, chatbot
@@ -68,3 +65,9 @@ Feel free to explore my repositories 🔍 and reach out if you’d like to colla
 I'm always open to connecting with like-minded individuals who are passionate about AI 🧠, NLP 🗣️, computer vision
 👁️‍🗨️, and scalable software development 🛠️.
 
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=a-sharifi" alt="GitHub Streak" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-sharifi&layout=compact&theme=vision-friendly-dark)" alt="GitHub Streak" /></a>
+</p>
