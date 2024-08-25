@@ -68,6 +68,3 @@ Feel free to explore my repositories 🔍 and reach out if you’d like to colla
 I'm always open to connecting with like-minded individuals who are passionate about AI 🧠, NLP 🗣️, computer vision
 👁️‍🗨️, and scalable software development 🛠️.
 
----
-
-This version incorporates more emojis to create a more vibrant and engaging README!
