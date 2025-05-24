@@ -12,9 +12,9 @@
 </p>
 
 
-👋 Hello! I’m a highly specialized software engineer with over 5️⃣ years of experience in the tech industry. I have a
+👋 Hello! I’m a highly specialized software engineer with over 9 years of experience in the tech industry. I have a
 solid background in back-end development, artificial intelligence (AI) 🧠, natural language processing (NLP) 🗣️, chatbot
-technologies 🤖, and computer vision research 👁️‍🗨️.
+technologies(LLMs, RAGs) 🤖, and computer vision research 👁️‍🗨️.
 
 ## 🔧 Technical Skills
 
